@@ -1,6 +1,6 @@
 # Space Impact – C++ Game Project
 
-This project is a final-term **C++ Game Project** submission by **Muhammad Ahmad Amin** for the **Programming Fundamentals (PF)** course *(2nd semester, BS Computer Science)*, instructed by **Prof. Awais Hassan** at **UET (University of Engineering & Technology) Lahore**.
+This project is a final-term **C++ Game Project** submission by **Muhammad Ahmad Amin** for the **Programming Fundamentals (PF)** course *(1nd semester, BS Computer Science)*, instructed by **Prof. Awais Hassan** at **UET (University of Engineering & Technology) Lahore**.
 
 
 **Note:**
