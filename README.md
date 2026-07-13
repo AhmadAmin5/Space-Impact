@@ -4,7 +4,7 @@
   <img src="CoverPhoto.png" alt="Server Logs" width="500"/>
 </div>
 
-<br>
+
 Space Impact Game is final-term **C++ Game Project** by **M Ahmad Amin** for the **Programming Fundamentals (PF)** course *(1nd semester, BS Computer Science)* at **[University of Engineering & Technology](https://uet.edu.pk)**.
 
 
