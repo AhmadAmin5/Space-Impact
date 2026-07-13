@@ -7,6 +7,7 @@
 
 Space Impact Game is final-term **C++ Game Project** by **M Ahmad Amin** for the **Programming Fundamentals (PF)** course *(1nd semester, BS Computer Science)* at **[University of Engineering & Technology](https://uet.edu.pk)**.
 
+[Watch game video on YouTube](https://youtu.be/34dZBzIWUGI)
 
 **Note:**
 It is the initial version of the Space Impact game, developed using C++ procedural programming before being later restructured in **C#** and **object-oriented design** in the Object-Oriented Programming (OOP) course *(2nd semester, BS Computer Science)*.
