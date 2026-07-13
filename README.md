@@ -1,25 +1,17 @@
 # Space Impact – C++ Game Project
 
-This project is a final-term **C++ Game Project** submission by **Muhammad Ahmad Amin** for the **Programming Fundamentals (PF)** course *(1nd semester, BS Computer Science)*, instructed by **Prof. Awais Hassan** at **UET (University of Engineering & Technology) Lahore**.
+<div align="center">
+  <img src="CoverPhoto.png" alt="Server Logs" width="500"/>
+</div>
+
+<br>
+Space Impact Game is final-term **C++ Game Project** by **M Ahmad Amin** for the **Programming Fundamentals (PF)** course *(1nd semester, BS Computer Science)* at **[University of Engineering & Technology](https://uet.edu.pk)**.
 
 
 **Note:**
-It is the initial version of the Space Impact game, developed using C++ procedural programming before being later restructured using **C#** and **object-oriented design** in the Object-Oriented Programming (OOP) course *(2nd semester, BS Computer Science)*.
+It is the initial version of the Space Impact game, developed using C++ procedural programming before being later restructured in **C#** and **object-oriented design** in the Object-Oriented Programming (OOP) course *(2nd semester, BS Computer Science)*.
 
-You can explore the OOP C# version of the game here [Space-Impact-OOP](https://github.com/MAhmadAmin/Space-Impact-OOP-Game) on my GitHub Profile [@MAhmadAmin](https://github.com/MAhmadAmin).
-
-
-
-## Learning Objective
-
-This console-based space shooter game was inspired by the iconic Space Impact from the Nokia 1100. The primary goal of this project was to apply fundamental programming concepts in C++, such as:
-
-- Variables & DataTypes
-- Control Structures (if/else, loops)
-- Functions
-- Arrays
-- File Handling
-- Procedural decomposition and modular design
+You can explore the OOP C# version of the game here [Space-Impact-OOP](https://github.com/AhmadAmin5/Space-Impact-OOP-Game) on my GitHub Profile [@AhmadAmin5](https://github.com/AhmadAmin5).
 
 
 ## Technologies Used
@@ -46,3 +38,15 @@ Survive all levels, defeat the mastermind, and restore peace to the stars.
 - Progressive difficulty across levels  
 - Boss fight with unique patterns  
 - Clear OOP structure and modular codebase  
+
+
+## Learning Objective
+
+This console-based space shooter game was inspired by the iconic Space Impact from the Nokia 1100. The primary goal of this project was to apply fundamental programming concepts in C++, such as:
+
+- Variables & DataTypes
+- Control Structures (if/else, loops)
+- Functions
+- Arrays
+- File Handling
+- Procedural decomposition and modular design
